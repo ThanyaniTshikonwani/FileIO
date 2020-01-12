@@ -1,0 +1,6 @@
+Full Name: Ronny Test
+Age: 12
+Date of visit: Sat Jan 11 17:42:48 SAST 2020
+Time of visit: 0
+Comments: test
+Assited by test
