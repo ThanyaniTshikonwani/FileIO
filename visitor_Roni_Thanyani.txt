@@ -1,0 +1,6 @@
+Full Name: null null
+Age: 0
+Date of visit: java.text.SimpleDateFormat@95946520
+Time of visit: java.text.SimpleDateFormat@4615fbc1
+Comments: null
+Assisted by null
