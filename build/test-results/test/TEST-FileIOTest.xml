@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FileIOTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-01-29T21:37:56" hostname="godmaster" time="1.609">
+<testsuite name="FileIOTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-01-29T21:46:26" hostname="godmaster" time="0.538">
   <properties/>
-  <testcase name="load()" classname="FileIOTest" time="1.606"/>
+  <testcase name="load()" classname="FileIOTest" time="0.534"/>
   <testcase name="save()" classname="FileIOTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
