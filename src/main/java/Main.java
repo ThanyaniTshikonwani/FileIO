@@ -6,10 +6,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Scanner sinput=new Scanner(System.in);
         String option;
-        String quit;
 
-//        quit=sinput.nextLine();
-//       while (true){
                System.out.println("Please Press 1 to Add Visitors or Press 2 to view existing visitors" +
                        " Q to exit");
                option=sinput.nextLine();
@@ -19,7 +16,5 @@ public class Main {
                    FileIO.load();
                }
            }
-//           if (quit.equalsIgnoreCase("Q"));
-           }
-//       }
-//    }
+ }
+
